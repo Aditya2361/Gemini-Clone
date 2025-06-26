@@ -1,4 +1,11 @@
-<<<<<<< HEAD
 # Gemini-Clone
-A Gemini clone built with React, powered by Groq API instead of Gemini API .
->>>>>>> ae7416c80de27c8daee2df7514e6292267292ea7
+
+A Gemini AI clone built with React, powered by the Groq API instead of the Gemini API.
+
+---
+## Features
+- React-based frontend with a Gemini-like interface  
+- Chat functionality using Groq's AI models  
+- Easily customizable with your own Groq API key
+  
+
