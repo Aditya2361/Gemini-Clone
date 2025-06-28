@@ -15,24 +15,24 @@ const Main = () => {
             {!showResult
             ?<>
               <div className="greet">
-                <p><span>Hello, Madam Jiii.</span></p>
+                <p><span>Hello, John.</span></p>
                 <p>How can I help you today?</p>
             </div>
             <div className="cards">
                 <div className="card">
-                    <p>Where is the nearest weapon store?</p>
+                    <p>Suggest beautiful places to see on an upcoming road trip</p>
                     <img src={assets.compass_icon} alt="" />
                 </div>
                 <div className="card">
-                    <p>Suggest beautiful places to see on an upcoming road trip</p>
+                    <p>Briefly summarize this concept: urban planning</p>
                     <img src={assets.bulb_icon} alt="" />
                 </div>
                 <div className="card">
-                    <p>Briefly summarize this concept: Nuclear Bombs</p>
+                    <p>Brainstorm team bonding activities for our work retreat</p>
                     <img src={assets.message_icon} alt="" />
                 </div>
                 <div className="card">
-                    <p>Code me a tic tac toe game</p>
+                    <p>Tell me about React js and React native</p>
                     <img src={assets.code_icon} alt="" />
                 </div>
             </div>
